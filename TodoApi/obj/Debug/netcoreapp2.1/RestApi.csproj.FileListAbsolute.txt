@@ -1,0 +1,14 @@
+C:\Users\Степан\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\RestApi.deps.json
+C:\Users\Степан\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\RestApi.runtimeconfig.json
+C:\Users\Степан\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\RestApi.runtimeconfig.dev.json
+C:\Users\Степан\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\RestApi.dll
+C:\Users\Степан\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\RestApi.pdb
+C:\Users\Степан\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\RestApi.csprojAssemblyReference.cache
+C:\Users\Степан\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\RestApi.csproj.CoreCompileInputs.cache
+C:\Users\Степан\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\RestApi.RazorAssemblyInfo.cache
+C:\Users\Степан\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\RestApi.RazorAssemblyInfo.cs
+C:\Users\Степан\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\RestApi.AssemblyInfoInputs.cache
+C:\Users\Степан\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\RestApi.AssemblyInfo.cs
+C:\Users\Степан\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\RestApi.RazorTargetAssemblyInfo.cache
+C:\Users\Степан\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\RestApi.dll
+C:\Users\Степан\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\RestApi.pdb
